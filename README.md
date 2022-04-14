@@ -2,9 +2,11 @@
 
 Aprende a usar la biblioteca web React.js, para el frontend, utilizando JavaScript. Conoce cómo utilizar los Hooks y el enrutador React Router Dom V6; además, aprende a integrar el framework CSS Bootstrap.
 
-![](./preview1.JPG)
+![](./preview1.PNG)
 <br/><br/>
-![](./preview2.JPG)
+![](./preview2.PNG)
+<br/><br/>
+![](./preview3.png)
 
 Para instalar los paquetes necesarios:
 
